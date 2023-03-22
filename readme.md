@@ -9,4 +9,4 @@ Jeg har integreret nogle forskellige eksempler, som gerne burde vise hvordan scr
 
 Det er muligt at tilsøge support hvis man har lidt bøvl med scriptet - skriv gerne til min discord huh#5502
 
-Jeg har med vilje sat ox_target og ox_lib så værende to dependencies, eftersom at scriptet ikke vil fungere uden dem.
+Jeg har med vilje sat ox_target og ox_lib til at være dependencies, eftersom at scriptet ikke vil fungere uden dem.
